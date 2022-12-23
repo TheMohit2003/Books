@@ -85,18 +85,51 @@ a:hover{
     color: red;
 }
 
-/* <!-- section2 : carousel styles-->
+/* <!-- section2 : carousel styles--> */
     
-<!-- section 3 : features  styles-->
+/* <!-- section 3 : features  styles--> */
 
-<!-- section 4 : best seller styles -->
+.feature-box{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    flex-wrap: wrap;
+    border: solid 2px #989595;
+    border-left: none;
+    border-right: none;
+    
+}
 
-<!-- section 5 new arrivals styles -->
 
-<!-- section 6 : sale section styles -->
 
-<!-- section 7 : bookset section styles -->
+.feature-box .feature-element{
+    display: block;
+    margin-top: 30px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 30px;
+    text-align: center;
+}
 
-<!-- section 8 : author carousel  styles -->
+.feature-box .feature-element img{
+    height: 50px;
+    width: 50px;
+    margin-bottom: 20px;
+}
 
-<!-- section 9 : footer styles  --> */
+.feature-box .feature-element img:hover{
+    cursor: pointer;
+}
+
+
+/* <!-- section 4 : best seller styles --> */
+
+/* <!-- section 5 new arrivals styles --> */
+
+/* <!-- section 6 : sale section styles --> */
+
+/* <!-- section 7 : bookset section styles --> */
+
+/* <!-- section 8 : author carousel  styles --> */
+
+/* <!-- section 9 : footer styles  -->  */
