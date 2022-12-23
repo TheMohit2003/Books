@@ -50,3 +50,37 @@ a:hover{
     opacity:50%;
 }
 
+/* section of second navbar */
+
+.second-navbar{
+    background-color: rgb(224, 218, 44);
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0 20px 0 20px;
+}
+
+
+.second-navbar li{
+   margin-left: 50px;
+    list-style:none;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+
+.second-navbar li:nth-of-type(1){
+    margin-left: 0;
+}
+
+.second-navbar li a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.second-navbar li a:hover{
+    color: red;
+}
