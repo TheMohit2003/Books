@@ -68,7 +68,9 @@ This [webpage]() uses font called [Poppins](https://fonts.google.com/specimen/Po
 
 ## 🔗 Links
 
-- Mohit's linkedin profile:[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-pardeshi-5792aa229/)
-- Ishika's linkedin profile:[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishika-ranjan-75970a23b/)
+- Mohit's linkedin profile:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-pardeshi-5792aa229/)
+- Ishika's linkedin profile:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishika-ranjan-75970a23b/)
 
 
