@@ -20,11 +20,11 @@ visitors.
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Light grey (div background) | ![#E0E0E0](https://via.placeholder.com/10/E0E0E0?text=+) #E0E0E0 |
-| Yellow (navbar and div background) | ![#FFFF66](https://via.placeholder.com/10/FFFF66?text=+) #FFFF66 |
-| Darkgrey (button background) | ![#808080](https://via.placeholder.com/10/808080?text=+) #808080 |
-| Font-color (black) | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
-| Red (nav item hover color) | ![#FF0000](https://via.placeholder.com/10/FF0000?text=+) #FF0000 |
+| Light grey (div background) |  #E0E0E0 |
+| Yellow (navbar and div background) |  #FFFF66 |
+| Darkgrey (button background) |  #808080 |
+| Font-color (black) |  #000000 |
+| Red (nav item hover color) |  #FF0000 |
 
 
 ## Features
