@@ -15,6 +15,11 @@ a:hover{
     cursor: pointer;
 }
 
+body{
+    margin: 0;
+    padding: 0;
+}
+
 
 
 /* top navbar styles */
@@ -86,6 +91,18 @@ a:hover{
 }
 
 /* <!-- section2 : carousel styles--> */
+.start .carousel{
+    height: 30vw;
+    margin: 30px auto;
+}
+
+.start img{
+    height: 500px;
+    margin: 0 auto;
+    width: 90%;
+
+}
+
     
 /* <!-- section 3 : features  styles--> */
 
@@ -97,6 +114,7 @@ a:hover{
     border: solid 2px #989595;
     border-left: none;
     border-right: none;
+    margin: 30px auto;
     
 }
 
@@ -123,14 +141,199 @@ a:hover{
 
 
 /* <!-- section 4 : best seller styles --> */
+.bestsellers{
+    background-color: rgb(224, 218, 44);
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    font-weight: 400;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.bestsellers h2{
+    padding-top: 10px;
+}
+
+.card{
+    margin: 0;
+    padding: 0;
+}
+
+.card, .card-img-top{
+    height: 340px;
+    width: 280px;
+}
+
+.bestsellers .carousel-inner{
+    display: flex;
+    padding: 1em;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color: #808080;
+}
+
+.bestsellers .carousel-item{
+    
+    display: block;
+    flex: 0 0 calc(100%/4);
+}
+
 
 /* <!-- section 5 new arrivals styles --> */
+.new-arrival-container{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1600px;
+}
+
+.new-arrival-container p{
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.new-arrivals{
+    background-color: #E0E0E0;
+    height: 550px;
+    width: 100%;
+    text-align: center;
+    font-weight: 400;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.new-arrivals h2{
+    padding-top: 10px;
+
+}
+
+.card{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+.card, .card-img-top{
+    height: 340px;
+    width: 280px;
+}
+
+.new-arrivals .carousel-inner{
+    display: flex;
+    padding: 1em;
+}
+
+.new-arrivals .carousel-item{
+    display: block;
+    flex: 0 0 calc(100%/4);
+}
+
 
 /* <!-- section 6 : sale section styles --> */
+.sale .container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 20px 50px;
+    margin: 30px auto;
+    width: 100%;
+    max-width: 1600px;
+    background-color: rgb(224, 218, 44);
+    border-radius: 10px;
+}
+
+.sale img{
+    height: 300px;
+    width: 250px;
+    padding: 5px;
+
+}
+
+.sale p img{
+    width: 100px;
+    height: 100px;
+}
+
+.sale p{
+    font-size: 50px;
+    text-align: center;
+    font-weight: 400;
+    padding: 30px;
+}
+
 
 /* <!-- section 7 : bookset section styles --> */
+.book-sets{
+    margin: 20px 0;
+}
+
+
+.book-sets p{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+    padding: 5px;
+}
+
+.book-sets .container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 20px 50px;
+    margin: 10px auto;
+    width: 100%;
+    max-width: 1600px;
+    background-color:#E0E0E0;
+    border-radius: 10px;
+}
+
+button{
+    padding: 20px;
+    margin: 20px;
+    color: white;
+    background-color: #808080;
+    border-radius: 8%;
+    border: none;
+    width: 200px;
+    font-weight: 700;
+}
+
+
 
 /* <!-- section 8 : author carousel  styles --> */
+.authors .container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    margin: 5px auto;
+    padding: 20px 50px;
+    width: 100%;
+    max-width: 1600px;
+}
+
+.authors img{
+    height: 250px;
+    width: 250px;
+    padding: 5px;
+    border-radius: 100%;
+
+}
+
+.authors p{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+    padding: 30px;
+}
 
 /* <!-- section 9 : footer styles  -->  */
 
@@ -161,3 +364,14 @@ a:hover{
     width: 25px;
     margin: 5px;
 }
+
+
+/* changes done during integration */
+    
+   
+    
+    
+
+    
+
+    
