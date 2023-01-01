@@ -34,9 +34,6 @@ visitors.
 - Carousel showcasing books.
 - Footer that has email input box and social media handle links 
 
-### Webpage in one image :
-![BuyBooks](https://user-images.githubusercontent.com/99909551/209443553-037aa3a5-825a-4da4-b561-2c8bb230d093.png)
-
 
 ## FAQ
 
