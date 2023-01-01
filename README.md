@@ -5,7 +5,8 @@ This repo contains codes for the front page of
 a hypothetical company called [BuyBooks.com](https://themohit2003.github.io/Books-Ecommerce/) .
 This website showcases different types of books to website
 visitors. 
-
+### Webpage in one image :
+![BuyBooks](https://user-images.githubusercontent.com/99909551/209443553-037aa3a5-825a-4da4-b561-2c8bb230d093.png)
 
 ## Acknowledgements
 
